@@ -2,4 +2,4 @@
 
 идея теста взята с сайта http://www.syntone-spb.ru/
 
-Запуск программы: ruby test.rb
+Запуск программы: ```ruby test.rb```
